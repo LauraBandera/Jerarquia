@@ -1,6 +1,6 @@
 package jerarquia;
 
-public class Empleado {
+public class Empleado extends Persona{
 	
 	private double salario;
 
